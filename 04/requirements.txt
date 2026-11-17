@@ -1,0 +1,4 @@
+numpy>=2.2.5
+taichi>=1.7.4
+torch==2.14.1+cu132
+cupy>=14.2.0
